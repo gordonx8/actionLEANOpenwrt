@@ -16,5 +16,4 @@
 # Add a feed source
 sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
-git clone https://github.com/coolsnowwolf/lede.git
-git clone https://github.com/pymumu/smartdns.git
+#git clone https://github.com/pymumu/smartdns.git
